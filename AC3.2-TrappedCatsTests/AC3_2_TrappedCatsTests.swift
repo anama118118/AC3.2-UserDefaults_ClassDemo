@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import AC3_2_TrappedCats
+//@testable import AC3_2_TrappedCats
 
 class AC3_2_TrappedCatsTests: XCTestCase {
     
